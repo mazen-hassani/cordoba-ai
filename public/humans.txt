@@ -1,0 +1,36 @@
+/* HUMANS.TXT */
+/* humanstxt.org */
+
+/* TEAM */
+Title: Founder & CEO
+Name: Mazen Hassani
+Site: https://cordoba-ai.com
+Twitter: @cordoba_ai
+Location: Global
+
+/* SITE */
+Last Updated: 2025-10-21
+Language: English
+Charset: UTF-8
+Standards: HTML5, CSS3, TypeScript, Next.js
+Components: React, Tailwind CSS
+Hosting: Vercel
+Content Management: Next.js
+
+/* THANKS */
+We'd like to thank:
+- The amazing open-source community
+- Next.js and React teams
+- Tailwind CSS for beautiful styling
+- All our clients and partners
+
+/* THANKS TO */
+Logo & Design Inspiration: Cordoba AI Team
+Development: Cordoba AI Team powered by Claude Code (https://claude.com/claude-code)
+
+/* CONTACT */
+Email: hello@cordoba-ai.com
+Phone: +1 (234) 567-890
+
+/* NOTE */
+Made with 💙 and powered by AI

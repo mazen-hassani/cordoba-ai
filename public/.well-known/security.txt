@@ -1,0 +1,27 @@
+Contact: security@cordoba-ai.com
+Expires: 2026-10-21T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://cordoba-ai.com/.well-known/security.txt
+
+# Security Policy for Cordoba AI
+
+If you discover a security vulnerability in our systems or services, please report it responsibly by emailing security@cordoba-ai.com with the following details:
+
+1. Description of the vulnerability
+2. Steps to reproduce the issue
+3. Impact of the vulnerability
+4. Your contact information
+
+We appreciate responsible disclosure and will:
+- Acknowledge receipt of your report within 48 hours
+- Investigate and validate the vulnerability
+- Provide a timeline for resolution
+- Credit you (if desired) once the vulnerability is patched
+
+Please do not publicly disclose vulnerabilities before we have had a chance to address them.
+
+## Bug Bounty Program
+
+We currently handle security reports on a case-by-case basis. While we don't have a formal bug bounty program, we deeply appreciate security researchers who help us improve our security posture.
+
+Thank you for helping keep Cordoba AI secure!
