@@ -11,7 +11,7 @@ export default function CTA() {
       <div className="max-w-3xl mx-auto text-center relative z-10">
         <h2 className="section-title mb-6">Ready to Transform Your Business?</h2>
         <p className="text-xl text-gray-300 mb-8">
-          Join hundreds of companies leveraging AI-powered solutions with Cordoba AI. Let's discuss how we can help you achieve your goals.
+          Join hundreds of companies leveraging AI-powered solutions with Cordoba AI. Let&apos;s discuss how we can help you achieve your goals.
         </p>
 
         <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
